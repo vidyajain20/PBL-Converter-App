@@ -1,6 +1,6 @@
 ##Do read instructions.txt before installation
 
-# PBL-Converter-App  ➕➖✖➗
+# **PBL-Converter-App  ➕➖✖➗**
 ## PBL Project : JavaFX All in one Calculator and Converter
 
 
